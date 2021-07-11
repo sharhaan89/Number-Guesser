@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author User
+ * @author Shaan
  */
 public class NumberGuesser extends javax.swing.JFrame {
     
